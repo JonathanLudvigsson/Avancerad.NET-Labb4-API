@@ -1,5 +1,3 @@
-# Avancerad.NET-Labb4-API
-
 Hämta alla personer i systemet [HttpGet]:                      https://localhost:7133/api/Person/getAllPersons
 
 Hämta alla intressen som är kopplade till en person [HttpGet]: https://localhost:7133/api/Person/1/getPersonInterests
